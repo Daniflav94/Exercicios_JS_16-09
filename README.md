@@ -1,4 +1,4 @@
-# Exercicios_JS_16-09
+# Exercícios de lógica aplicados no JavaScript para execução na web.
 
 1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu
 perímetro.
